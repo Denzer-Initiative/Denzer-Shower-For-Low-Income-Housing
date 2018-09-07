@@ -2,4 +2,4 @@
 
 Expected Release date: Mid 2020
 
-Denzer Initiative has plans for working on the development of cheap, reliable and comfortable electric showering systems for low income householders and families in Brazil, South America, Africa and third world countries.
+Denzer Initiative has plans for working on the development of cheap, reliable and comfortable electric shower systems for low income householders and families in Brazil, South America, Africa and third world countries.
